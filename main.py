@@ -7,6 +7,7 @@
 import requests
 from bs4 import BeautifulSoup
 
+# url = "your url here"
 url = "https://www.moneycontrol.com/stocksmarketsindia/"
 
 # Step 1 : Get the HTML
