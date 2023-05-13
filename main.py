@@ -62,4 +62,5 @@ imgs = soup.find_all('img')
 #     print(srcs.get('src'))
 
 
-
+# for more / advanced scraping 
+# go to : https://www.crummy.com/software/BeautifulSoup/bs4/doc/
